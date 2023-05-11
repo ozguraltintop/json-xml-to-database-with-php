@@ -1,0 +1,8 @@
+CREATE TABLE urunler (
+    id int NOT NULL AUTO_INCREMENT,
+    name varchar(255),
+    price DECIMAL(10,2),
+    url varchar(255),
+    sirket varchar(255),
+		PRIMARY KEY (id)
+);

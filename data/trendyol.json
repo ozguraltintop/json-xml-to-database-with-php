@@ -1,0 +1,19 @@
+{
+  "urunler": [
+    {
+      "isim": "Ürün 1",
+      "fiyat": 99.99,
+      "resim": "https://example.com/product1.jpg"
+    },
+    {
+      "isim": "Ürün 2",
+      "fiyat": 49.99,
+      "resim": "https://example.com/product2.jpg"
+    },
+    {
+      "isim": "Ürün 3",
+      "fiyat": 149.99,
+      "resim": "https://example.com/product3.jpg"
+    }
+  ]
+}
